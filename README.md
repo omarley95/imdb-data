@@ -6,7 +6,7 @@ IMDb is the world's most popular online source of information for movies, tv, vi
 
 ## Motivating theories to explore
 
-1. Users rate TV shows higher than Movies
+1. Users rate TV shows higher than movies
 2. Contraversial releases can by identified through 1 star reviews
 3. Dramas are higher rated on average 
 4. Comedies and Horror are lower rated on average
