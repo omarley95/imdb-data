@@ -14,4 +14,7 @@ IMDb is the world's most popular online source of information for movies, tv, vi
 
 ## Getting to know the data
 
+![alt text](https://github.com/omarley95/imdb-data/blob/main/images/DistributionOfMoviesByGenre.png?raw=true)
+
+
 ![alt text](https://github.com/omarley95/imdb-data/blob/main/images/RatingsMoviesVsTvSeriesNew.png?raw=true)
